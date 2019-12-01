@@ -1,0 +1,8 @@
+com\matas\liteconstruct\TestController.class
+com\matas\liteconstruct\ignite\model\ClassAccessRule.class
+com\matas\liteconstruct\ignite\config\ServerConfigurationFactory.class
+com\matas\liteconstruct\config\MvcConfig.class
+com\matas\liteconstruct\TestJdbcSlowApplication.class
+com\matas\liteconstruct\ignite\model\AccessRuleAbstract.class
+com\matas\liteconstruct\ignite\consulignite\TcpDiscoveryConsulIpFinder.class
+com\matas\liteconstruct\ignite\test\TestQueryRepository.class
